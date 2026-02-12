@@ -1,0 +1,12 @@
+x=int(input("enter your temperature in F: "))
+c=(5/9)*(x-32)
+print(x,"F= ",c,"C")
+y=int(input("enter your temperature in c: "))
+f=(9*y+160)/5
+print(y,"C=",f,"F")
+z=int(input("enter your temperature in c: "))
+k=float(z+273.15)
+print(z,"c=",k,"k")
+a=int(input("enter your temperature in k: " ))
+d=float(a-273.15)
+print(a,"k=",d,"c")
