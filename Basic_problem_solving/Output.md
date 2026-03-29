@@ -65,4 +65,8 @@ Balance at end of Year 3 = 159720.0
 Balance at end of Year 4 = 175692.0
 Balance at end of Year 5 = 193261.2
 
+# output of Vertically_Thrown_Particle
+enter initial velocity(m/s):15
+Time taken to touch the ground = 3.06 seconds
+
 
