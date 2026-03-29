@@ -69,4 +69,7 @@ Balance at end of Year 5 = 193261.2
 enter initial velocity(m/s):15
 Time taken to touch the ground = 3.06 seconds
 
+# output of Bouncing_Ball_Distance
+enter initial height(in meters):20
+total distance travelled = 32.5 meters
 
