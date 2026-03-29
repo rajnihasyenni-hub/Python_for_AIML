@@ -81,3 +81,7 @@ The ant reaches the end in 12367 seconds
 *****
 *******
 
+# output of Largest_value_of_sum
+Enter a positive integer: 10
+Sum from 1 to 10 is: 55
+
