@@ -89,3 +89,7 @@ Sum from 1 to 10 is: 55
 Enter value of a: 8
 Enter value of b: 10
 Value of x: 0
+
+# output of grade_calculator
+Enter marks: 80
+Grade: B
