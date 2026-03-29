@@ -56,5 +56,13 @@ Raj
 *****
 *******
 
+# output of Fixed_deposit_interest
+Enter Principal amount: 120000
+Enter Annual Interest Rate (%): 10
+Balance at end of Year 1 = 132000.0
+Balance at end of Year 2 = 145200.0
+Balance at end of Year 3 = 159720.0
+Balance at end of Year 4 = 175692.0
+Balance at end of Year 5 = 193261.2
 
 
