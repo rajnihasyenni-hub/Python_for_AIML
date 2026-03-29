@@ -73,3 +73,5 @@ Time taken to touch the ground = 3.06 seconds
 enter initial height(in meters):20
 total distance travelled = 32.5 meters
 
+# output of Ant_and_stretching_rope_problem
+The ant reaches the end in 12367 seconds
