@@ -45,3 +45,10 @@ percentage= 95.0
 Radius of cirlce in cm:6
 Area of circle= 113.09724 cm square
 Perimeter of circle= 37.699079999999995 cm
+
+# output of print_Name
+enter your name:Raj
+Raj
+
+
+
