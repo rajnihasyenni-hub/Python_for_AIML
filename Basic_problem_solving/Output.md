@@ -50,5 +50,11 @@ Perimeter of circle= 37.699079999999995 cm
 enter your name:Raj
 Raj
 
+# output of Aesteric_pattern
+*
+***
+*****
+*******
+
 
 
