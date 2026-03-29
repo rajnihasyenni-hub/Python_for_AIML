@@ -22,3 +22,8 @@ enter 2nd angle in degrees B:60
 C= 60 degrees
 isosceles triangle 
 
+# output of Days_Conversion
+enter the no.of days:456
+Years= 1 Months= 38 weeks= 65
+
+
