@@ -26,4 +26,17 @@ isosceles triangle
 enter the no.of days:456
 Years= 1 Months= 38 weeks= 65
 
-
+# output of student_marks_collection
+enter maths marks:90
+maths maximum marks:100
+enter physics marks:95
+Physics maximum marks:100
+enter chemistry marks:94
+chemistry maximum marks: 100
+enter english marks:97
+english maximum marks:100
+enter Sanskrit marks:99
+Sanskrit maximum Marks:100
+Total marks= 475
+Average marks= 95
+percentage= 95.0
