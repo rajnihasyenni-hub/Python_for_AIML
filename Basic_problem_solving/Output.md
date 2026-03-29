@@ -16,4 +16,9 @@ Enter the width of rectangle (in cm): 10
 Area of Rectangle: 200 cm square
 Perimeter of Rectangle: 60 cm
 
-# 
+# output of Triangle_angle_and_type
+enter 1st angle in degrees A:60
+enter 2nd angle in degrees B:60
+C= 60 degrees
+isosceles triangle 
+
