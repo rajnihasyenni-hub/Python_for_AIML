@@ -1,0 +1,17 @@
+Maths=int(input("enter maths marks:"))
+M1=int(input("maths maximum marks:"))
+Physics=int(input("enter physics marks:"))
+M2=int(input("Physics maximum marks:"))
+Chemistry=int(input("enter chemistry marks:"))
+M3=int(input("chemistry maximum marks: "))
+English=int(input("enter english marks:"))
+M4=int(input("english maximum marks:"))
+Sanskrit=int(input("enter Sanskrit marks:"))
+M5=int(input("Sanskrit maximum Marks:"))
+Total_Marks=(Maths+Physics+Chemistry+English+Sanskrit)
+Average_Marks=(Total_Marks//5)
+Max_marks=M1+M2+M3+M4+M5
+Percentage=(Total_Marks/Max_marks)*100
+print("Total marks=",Total_Marks)
+print("Average marks=", Average_Marks)
+print("percentage=", Percentage)
