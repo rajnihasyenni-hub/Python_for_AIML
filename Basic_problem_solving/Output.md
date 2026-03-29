@@ -75,3 +75,9 @@ total distance travelled = 32.5 meters
 
 # output of Ant_and_stretching_rope_problem
 The ant reaches the end in 12367 seconds
+
+# output of Aesteric_Triangle_Pattern*
+***
+*****
+*******
+
