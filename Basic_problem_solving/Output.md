@@ -40,3 +40,8 @@ Sanskrit maximum Marks:100
 Total marks= 475
 Average marks= 95
 percentage= 95.0
+
+# output of Area_and_perimeter_of_a_circle
+Radius of cirlce in cm:6
+Area of circle= 113.09724 cm square
+Perimeter of circle= 37.699079999999995 cm
