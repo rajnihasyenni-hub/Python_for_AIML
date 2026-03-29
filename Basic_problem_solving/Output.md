@@ -93,3 +93,23 @@ Value of x: 0
 # output of grade_calculator
 Enter marks: 80
 Grade: B
+
+# output of yes_no_selection
+Enter y/Y for Yes or n/N for No: y
+Yes selected
+
+Enter y/Y for Yes or n/N for No: n
+No selected
+
+Enter y/Y for Yes or n/N for No: f
+Invalid input
+
+# output of taxi_fare_calculator
+Enter distance travelled (km): 80
+Total fare: Rs. 456.0
+
+# output of Factors_of_numbers
+Enter a number: 80
+Factors of 80 are:
+1 2 4 5 8 10 16 20 40 80 
+
